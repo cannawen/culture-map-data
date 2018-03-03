@@ -1,0 +1,30 @@
+? id: 7427fc38-95d2-408b-8d7f-e7440580682d
+  name: bidet use
+  type: custom
+  variants:
+  - country-ids:
+    - japan
+    id: 0
+    name: common
+  - country-ids:
+    - canada
+    - poland
+    id: 1
+    name: uncommon
+: id: england
+  name: England
+  type: country
+id: dd9a989b-9156-40f0-8c45-e0e10e914164
+name: driving side
+type: custom
+variants:
+- country-ids:
+  - england
+  - japan
+  id: 0
+  name: left
+- country-ids:
+  - canada
+  - poland
+  id: 1
+  name: right
