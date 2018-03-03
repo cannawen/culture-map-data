@@ -1,0 +1,12 @@
+id: 4be2eb5c-a5a9-4ccc-93cf-3f6df643b5b2
+name: same-sex marriage
+type: custom
+variants:
+- country-ids:
+  - canada
+  id: 0
+  name: legal
+- country-ids:
+  - poland
+  id: 1
+  name: illegal
