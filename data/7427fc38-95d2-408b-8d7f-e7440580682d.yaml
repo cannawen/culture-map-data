@@ -1,0 +1,13 @@
+id: 7427fc38-95d2-408b-8d7f-e7440580682d
+name: bidet use
+type: custom
+variants:
+- country-ids:
+  - japan
+  id: 0
+  name: common
+- country-ids:
+  - canada
+  - poland
+  id: 1
+  name: uncommon
