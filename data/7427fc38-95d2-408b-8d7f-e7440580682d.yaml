@@ -3,6 +3,7 @@ name: bidet use
 type: custom
 variants:
 - country-ids:
+  - us
   - gb
   - pl
   - ca
