@@ -3,14 +3,16 @@ name: driving side
 type: custom
 variants:
 - country-ids:
-  - gb
-  - jp
-  id: 9af2d59d-051b-4179-9bf7-7577eda521cb
-  name: left
-  type: variant
-- country-ids:
-  - ca
   - pl
+  - ca
   id: 95077779-4a87-43ce-b245-3bd7f801a7af
   name: right
+  type: variant
+- country-ids:
+  - gb
+  - sg
+  - jp
+  - my
+  id: 9af2d59d-051b-4179-9bf7-7577eda521cb
+  name: left
   type: variant
