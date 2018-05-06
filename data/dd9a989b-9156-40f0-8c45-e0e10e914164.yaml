@@ -3,8 +3,12 @@ name: driving side
 type: custom
 variants:
 - country-ids:
+  - us
   - pl
   - ca
+  - pt
+  - gr
+  - hr
   id: 95077779-4a87-43ce-b245-3bd7f801a7af
   name: right
   type: variant
