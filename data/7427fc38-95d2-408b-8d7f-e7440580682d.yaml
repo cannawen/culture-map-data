@@ -3,13 +3,13 @@ name: bidet use
 type: custom
 variants:
 - country-ids:
-  - japan
+  - jp
   id: 6c92d23d-65cc-4d7d-847c-62da208af240
   name: common
   type: variant
 - country-ids:
-  - canada
-  - poland
+  - ca
+  - pl
   id: eecb6853-16bd-40c4-b01b-8fec99076b05 
   name: uncommon
   type: variant

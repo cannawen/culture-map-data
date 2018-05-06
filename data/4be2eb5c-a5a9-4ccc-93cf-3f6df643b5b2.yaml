@@ -3,12 +3,12 @@ name: same-sex marriage
 type: custom
 variants:
 - country-ids:
-  - canada
+  - ca
   id: 6ad8ce7c-c984-413e-94f8-183ebd9bf94c
   name: legal
   type: variant
 - country-ids:
-  - poland
+  - pl
   id: 75f82db8-b488-49fa-87d4-8c31872d5965
   name: illegal
   type: variant
