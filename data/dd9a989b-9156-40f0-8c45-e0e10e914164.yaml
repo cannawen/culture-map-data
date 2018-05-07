@@ -3,6 +3,13 @@ name: driving side
 type: custom
 variants:
 - country-ids:
+  - aw
+  - ax
+  - bq
+  - sj
+  - bv
+  - ai
+  - va
   - af
   - al
   - dz
@@ -169,6 +176,8 @@ variants:
   name: right
   type: variant
 - country-ids:
+  - gs
+  - bm
   - ag
   - au
   - bs
