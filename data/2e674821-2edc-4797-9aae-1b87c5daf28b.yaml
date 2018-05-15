@@ -3,7 +3,6 @@ name: egg count per carton
 type: custom
 variants:
 - country-ids:
-  - us
   - ca
   id: fd4391ce-11f5-4bc2-aa7a-af50d68ef3a1
   name: '12'
