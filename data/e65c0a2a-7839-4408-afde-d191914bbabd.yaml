@@ -3,16 +3,16 @@ name: tipping
 type: custom
 variants:
 - country-ids:
-  - us
-  - ca
-  id: 4040432d-878f-4104-9d43-6b273c8835e8
-  name: tipping expected
-  type: variant
-- country-ids:
   - is
   - tw
   - jp
   - gr
   id: 8edb02d1-fbf0-497e-bcd7-bfbb0cf8e725
   name: no tipping
+  type: variant
+- country-ids:
+  - us
+  - ca
+  id: 4040432d-878f-4104-9d43-6b273c8835e8
+  name: tipping expected
   type: variant
