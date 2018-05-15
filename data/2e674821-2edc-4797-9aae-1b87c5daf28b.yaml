@@ -3,15 +3,10 @@ name: egg count per carton
 type: custom
 variants:
 - country-ids:
+  - us
   - ca
   id: fd4391ce-11f5-4bc2-aa7a-af50d68ef3a1
   name: '12'
-  type: variant
-- country-ids:
-  - tw
-  - jp
-  id: 062d8e29-539e-4e49-80ee-3aa2e55fc01d
-  name: '10'
   type: variant
 - country-ids:
   - ca
@@ -23,4 +18,10 @@ variants:
   - gr
   id: 0c9cd45f-d482-497d-9af0-e4ba264499b7
   name: '18'
+  type: variant
+- country-ids:
+  - tw
+  - jp
+  id: 062d8e29-539e-4e49-80ee-3aa2e55fc01d
+  name: '10'
   type: variant
